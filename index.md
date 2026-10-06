@@ -3,15 +3,17 @@ layout: default
 title: From Waste to Worth
 ---
 
+[Deliverables](#deliverables-and-schedule)   [Problem](#the-problem)   [Goals](#what-the-system-should-achieve)   [Team](#team)   [Updates](#project-updates)
+
 # Getting surplus campus food to food banks before it expires
 
-We are Group 3 in CSC 375 at the University of Victoria. This term we are analysing and designing a system that helps UVic food services record edible surplus food, match it with food banks and community organizations, and arrange pickup in time.
+We are Group 3 in CSC 375 at the University of Victoria. This term we are analyzing and designing a system that helps UVic food services record edible surplus food, match it with food banks and community organizations, and arrange pickup in time.
 
 **Our client** is the UVic Campus Food Recovery Program, which coordinates donations from participating campus food services to approved recipient organizations. Two members of our team represent the client. The other four form the analyst team.
 
 ## Deliverables and schedule
 
-<!-- To update: put the PDF in the docs folder, turn the name into a link, and change the status. -->
+<!-- To update: upload the PDF next to index.md, turn the name into a link, and change the status. -->
 
 | Deliverable | Due | Status |
 |---|---|---|
@@ -33,6 +35,13 @@ Prepared food that is still safe to eat often has only hours of usable life left
 ### Why not use FoodRescue.ca?
 
 FoodRescue.ca, run by Second Harvest, matches individual food businesses with registered non-profits across Canada. Our system covers the work inside one institution: recording surplus at several campus outlets, applying the same eligibility and food safety checks, assigning pickups to the program's own drivers, and keeping one set of records for reporting. FoodRescue.ca can stay one of the channels the client uses.
+
+## How a donation moves through the system
+
+1. **Record:** food-service staff enter the food type, quantity, pickup location and pickup window.
+2. **Check and match:** the donation passes an eligibility and food safety check and is offered to approved recipients.
+3. **Pickup:** a driver collects the food and confirms delivery in the system.
+4. **Track and report:** the donation gets a final status, and the record feeds into monthly reporting.
 
 ## What the system should achieve
 
@@ -73,8 +82,8 @@ FoodRescue.ca, run by Second Harvest, matches individual food businesses with re
 
 ## Project updates
 
-- **Oct 7:** Published this website.
-- **Oct 5:** Submitted the Project Charter, with a named client and measurable targets for each goal.
+- **Oct 6:** Named our client and set measurable targets for each project goal. Both will go into the next revision of the Project Charter.
+- **Oct 5:** Submitted the Project Charter and published this website.
 - **Oct 2:** Received RFP feedback: name the client, compare our idea with FoodRescue.ca, and base the constraints on food safety, donor liability and privacy.
 - **Sep 27:** Submitted the Request for Proposal.
 - **Sep 26:** On the professor's advice, narrowed the scope from restaurant chains to UVic food services.
