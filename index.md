@@ -82,7 +82,6 @@ FoodRescue.ca, run by Second Harvest, matches individual food businesses with re
 
 ## Project updates
 
-- **Oct 6:** Named our client and set measurable targets for each project goal. Both will go into the next revision of the Project Charter.
 - **Oct 5:** Submitted the Project Charter and published this website.
 - **Oct 2:** Received RFP feedback: name the client, compare our idea with FoodRescue.ca, and base the constraints on food safety, donor liability and privacy.
 - **Sep 27:** Submitted the Request for Proposal.
