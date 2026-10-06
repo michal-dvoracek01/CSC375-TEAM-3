@@ -15,8 +15,8 @@ We are Group 3 in CSC 375 at the University of Victoria. This term we are analys
 
 | Deliverable | Due | Status |
 |---|---|---|
-| [Request for Proposal](docs/RFP.pdf) | Sep 27 | Submitted |
-| [Project Charter](docs/Project_Charter.pdf) | Oct 5 | Submitted |
+| [Request for Proposal](RFP.pdf) | Sep 27 | Submitted |
+| [Project Charter](Project_Charter.pdf) | Oct 5 | Submitted |
 | Project website | Oct 7 | This page |
 | Requirements | Oct 11 | **Due next** |
 | Use cases | Oct 25 | Upcoming |
