@@ -3,12 +3,3 @@ description: CSC 375 Systems Analysis, Group 3, Fall 2026
 theme: jekyll-theme-minimal
 logo: logo.png
 show_downloads: false
-nav:
-  - title: Deliverables
-    url: "#deliverables-and-schedule"
-  - title: Project
-    url: "#the-problem"
-  - title: Team
-    url: "#team"
-  - title: Updates
-    url: "#project-updates"
