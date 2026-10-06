@@ -3,7 +3,7 @@ layout: default
 title: From Waste to Worth
 ---
 
-[Deliverables](#deliverables-and-schedule)   [Problem](#the-problem)   [Goals](#what-the-system-should-achieve)   [Team](#team)   [Updates](#project-updates)
+[Deliverables](#deliverables-and-schedule)   –   [Problem](#the-problem)   –   [Goals](#what-the-system-should-achieve)   –   [Team](#team)   –   [Updates](#project-updates)
 
 # Getting surplus campus food to food banks before it expires
 
